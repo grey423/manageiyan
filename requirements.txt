@@ -32,7 +32,7 @@ faker
 requests==2.26.0
 spamwatch
 speedtest-cli
-SQLAlchemy==1.4.36
+SQLAlchemy==2.0.9
 ujson
 pycryptodome
 base58
