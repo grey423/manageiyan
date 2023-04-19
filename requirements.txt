@@ -47,7 +47,7 @@ telegraph
 pymongo
 opencv-python-headless
 googletrans==4.0.0rc1
-gpytranslate==1.4.0
+gpytranslate==1.5.1
 google-trans-new
 hiredis	
 pretty_errors	
