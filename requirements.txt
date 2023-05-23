@@ -29,7 +29,7 @@ PyYAML
 pyrate-limiter
 python-telegram-bot==13.13
 faker
-requests==2.26.0
+requests==2.31.0
 spamwatch
 speedtest-cli
 SQLAlchemy==1.4.36
